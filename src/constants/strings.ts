@@ -1,4 +1,4 @@
-export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
+export const GAME_TITLE = 'E-Worldle'
 
 export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
@@ -20,7 +20,7 @@ export const DELETE_TEXT = 'Delete'
 export const STATISTICS_TITLE = 'Statistics'
 export const GUESS_DISTRIBUTION_TEXT = 'Guess Distribution'
 export const NEW_WORD_TEXT = 'New word in'
-export const SHARE_TEXT = 'Share'
+export const SHARE_TEXT = 'Meet us at E-World'
 export const TOTAL_TRIES_TEXT = 'Total tries'
 export const SUCCESS_RATE_TEXT = 'Success rate'
 export const CURRENT_STREAK_TEXT = 'Current streak'
